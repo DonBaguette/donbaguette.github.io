@@ -19,6 +19,7 @@ body {
     border-radius: 50px;
     max-width: 1500px;
     margin: 0 auto;
+    margin-top: 10px;
 }
 
 .navbar .logo a {
