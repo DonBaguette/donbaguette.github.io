@@ -22,11 +22,11 @@ body {
     margin-top: 10px;
 }
 
-.navbar .logo a {
-    text-decoration: none;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
+.navbar .logo img {
+    width: 150px;    
+    height: auto;    
+    display: block;  
+    margin-left: 20px; 
 }
 
 .navbar .menu ul {
